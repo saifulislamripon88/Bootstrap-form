@@ -1,0 +1,23 @@
+.containers{
+    width:40%;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid red;
+   
+}
+
+.form_design{
+    background-color: #F8F9FA;
+    padding: 50px 20px;
+    border-radius: 10px;
+    width: 50%;
+
+}
+
+
+
+.complex_form_design{
+    background-color: #fbfbfb;
+    padding: 40px 25px;
+    border-radius: 8px;
+}
